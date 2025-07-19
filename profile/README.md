@@ -58,10 +58,10 @@ Check our [Contribution Guide](https://stonejs.dev/contribute) and [Roadmap](htt
 
 ## Community & Contact
 
-- [Official Website](https://stonejs.dev)
+- [Official Website](https://stone-foundation.org)
 - [Discord](https://chat.stonejs.dev)
 - [Continuum Architecture Manifesto](https://evens-stone.github.io/continuum-manifesto/manifesto)
-- [About the Foundation](https://stonejs.dev/foundation)
+- [About the Foundation](https://stone-foundation.org/about)
 
 Have questions? Want to collaborate? Reach out at: **contact@stonejs.dev**
 
