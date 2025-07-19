@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://stonejs.dev/assets/image/moai_community.png" height="200" alt="Stone.js Logo" />
-</p>
-
 <h1 align="center">Stone Foundation</h1>
 
 <p align="center"><strong>Building a universal future for software, one Stone at a time.</strong></p>
